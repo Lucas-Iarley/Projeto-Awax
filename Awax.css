@@ -93,7 +93,7 @@ main{
 se a altura do navegador, ex: se a altura do navegador é 900px , 
 1vh equivale a 9px e, analogamente, 
 se a largura da viewport é 750px , 1vw equivale a 7.5px*/
-		background-image:url("C:/Users/Usuario/Downloads/documentos HTML/projeto Awax/1-Projeto-Awax-parte-1/complementos/bg.jpg");
+		background-image:url("./1-Projeto-Awax-parte-1/complementos/bg.jpg");
 		background-size: cover;
 		background-position:bottom;
 		overflow: hidden;
@@ -369,7 +369,7 @@ se a largura da viewport é 750px , 1vw equivale a 7.5px*/
 
 
 .bg-team{
-	background-image:url("C:/Users/Usuario/Downloads/documentos HTML/projeto Awax/1-Projeto-Awax-parte-1/complementos/bg.jpg");
+	background-image:url("./1-Projeto-Awax-parte-1/complementos/bg.jpg");
 	background-size: cover;
 	background-position: center;
 	padding: 0px;
@@ -477,7 +477,7 @@ se a largura da viewport é 750px , 1vw equivale a 7.5px*/
 }
 
 .section-map{
-				background-image:url("C:/Users/Usuario/Downloads/documentos HTML/projeto Awax/1-Projeto-Awax-parte-1/mapa.jpg");
+				background-image:url("./1-Projeto-Awax-parte-1/mapa.jpg");
 				background-size:cover;
 				background-position:center;
 				height:300px;
